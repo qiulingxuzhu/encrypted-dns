@@ -51,3 +51,5 @@
 	<integer>1</integer>
 </dict>
 </plist>
+<key>PayloadScope</key>
+<string>System</string>
